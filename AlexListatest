@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Globo HD
+http://edge-aws.aovivo.club/hls/s:88.198.163.51/globosphd_3a69aa1b_ad380164a475732345b45d63920c02e6065428e1/playlist.m3u8
+EXTINF:-1,Disney Channel HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_6c055cedfb1e167790617a94354022881a043f04/playlist.m3u8
+EXTINF:-1,Disney XD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/disneyxd_d094700e_d34d4c510146d375aa9e475a09d8d8897d02d0d9/playlist.m3u8
+EXTINF:-1,BBB20
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/bbb20_c1dfd96e_8662386154504094c671d5628eaf80982bc3c1da/playlist.m3u8
+EXTINF:-1,HBO Plus HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/hboplus1080p_39dfc9ff_21c5ab39c028d451725755529a4e9dedc6682f35/playlist.m3u8
+EXTINF:-1,Fox HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_7d959641c32e093f537efb170478590e58d7d1da/playlist.m3u8
+EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_3ea399342a966529472ea95c2a968032df389200/playlist.m3u8
+EXTINF:-1,TNT Séries 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tntseries_3bb18d9a_62d8120429d5963f8af7978589912bb290e072b9/playlist.m3u8
+EXTINF:-1,Cinemax
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax480p_22d200f8_0b34a9481de9ccef12189d737938dded0c82bb9f/playlist.m3u8
+EXTINF:-1,Discovery Channel
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverychannel_af3e1334_7754b75517561f260c32890a46e3c317f143d189/playlist.m3u8
+EXTINF:-1,Discovery Turbo
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/discoveryturbo_ca3512f4_646b17411f98d267aa1ea226adb9cd2e17dedf39/playlist.m3u8
+EXTINF:-1,Sony
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_c74bf0e603c3099aeb8cd8ed14bbc48eb4d4c9f3/playlist.m3u8
